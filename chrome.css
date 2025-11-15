@@ -1,0 +1,19 @@
+body{
+
+}
+
+input{
+    width: 400px;
+    padding: 10px;
+    border: 1px solid #008000cb;
+}
+
+button{
+ padding: 10px 15px;
+ margin: 5px;
+ background-color: aqua;
+ font-weight: bold;
+ border-radius: 5px;
+ font-style: italic;
+ border: 2px solid aqua;
+}
